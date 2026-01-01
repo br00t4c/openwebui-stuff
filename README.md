@@ -40,7 +40,7 @@ Happy scraping!
 
 ### Screenshot
 
-![](./assets/Screenshot%20from%202026-01-01%2016-37-14.png)
+![](./assets/Screenshot%20from%202026-01-01%2016-53-04.png)
 
 ## Bluesky Trending Topics
 
