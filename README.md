@@ -5,8 +5,8 @@ This repo contains a collection of external tools and function for the [Openwebu
 ## Playwright Web Scrape
 
 ### Overview
-* Type: FUNCTION 
-* Original Post: https://openwebui.com/posts/f48d1120-7c69-4a3b-88cc-c49682c3663d
+Type: FUNCTION  
+Original Post: https://openwebui.com/posts/f48d1120-7c69-4a3b-88cc-c49682c3663d
 
 Here is a very simple function that will: 
 
@@ -45,8 +45,8 @@ Happy scraping!
 ## Bluesky Trending Topics
 
 ### Overview
-* Type: TOOL
-* Original Post: https://openwebui.com/posts/cdc48a4b-5173-4aea-9284-e32f02c7d9df
+Type: TOOL  
+Original Post: https://openwebui.com/posts/cdc48a4b-5173-4aea-9284-e32f02c7d9df
 
 Here's a very simple tool that allows you to fetch currently trending topics on [Bluesky](https://bsky.app/)
 ## Screenshot
