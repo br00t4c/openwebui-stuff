@@ -36,7 +36,7 @@ Happy scraping!
 
 ## Screenshot
 
-![](./assets/Screenshot from 2026-01-01 16-37-14.png)
+![](./assets/Screenshot%20from%202026-01-01%2016-37-14.png)
 
 # Bluesky Trending Topics
 
@@ -46,6 +46,6 @@ Happy scraping!
 
 Here's a very simple tool that allows you to fetch currently trending topics on [Bluesky](https://bsky.app/)
 ## Screenshot
-![](./assets/Screenshot from 2026-01-01 16-41-13.png)
+![](./assets/Screenshot%20from%202026-01-01%2016-41-13.png)
 
 
