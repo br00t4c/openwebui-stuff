@@ -1,6 +1,10 @@
-# Playwright Web Scrape
+# Openwebui Stuff
 
-## Overview
+This repo contains a collection of external tools and function for the [Openwebui](https://openwebui.com/)
+
+## Playwright Web Scrape
+
+### Overview
 * Type: FUNCTION 
 * Original Post: https://openwebui.com/posts/f48d1120-7c69-4a3b-88cc-c49682c3663d
 
@@ -34,13 +38,13 @@ I made this function to scrape pages that I was not able to fetch using jina.ai.
 
 Happy scraping!
 
-## Screenshot
+### Screenshot
 
 ![](./assets/Screenshot%20from%202026-01-01%2016-37-14.png)
 
-# Bluesky Trending Topics
+## Bluesky Trending Topics
 
-## Overview
+### Overview
 * Type: TOOL
 * Original Post: https://openwebui.com/posts/cdc48a4b-5173-4aea-9284-e32f02c7d9df
 
