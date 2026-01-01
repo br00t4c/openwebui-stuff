@@ -1,5 +1,6 @@
 # Playwright Web Scrape
 
+## Overview
 * Type: FUNCTION 
 * Original Post: https://openwebui.com/posts/f48d1120-7c69-4a3b-88cc-c49682c3663d
 
@@ -33,12 +34,18 @@ I made this function to scrape pages that I was not able to fetch using jina.ai.
 
 Happy scraping!
 
+## Screenshot
+
+![](./assets/Screenshot from 2026-01-01 16-37-14.png)
+
 # Bluesky Trending Topics
 
+## Overview
 * Type: TOOL
 * Original Post: https://openwebui.com/posts/cdc48a4b-5173-4aea-9284-e32f02c7d9df
 
-Here's a very simple tool that allows you to fetch currently trending topics on Bluesky (https://bsky.app/)
-
+Here's a very simple tool that allows you to fetch currently trending topics on [Bluesky](https://bsky.app/)
+## Screenshot
+![](./assets/Screenshot from 2026-01-01 16-41-13.png)
 
 
